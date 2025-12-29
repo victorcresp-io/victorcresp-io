@@ -4,3 +4,11 @@ I'm a Computer Science student, currently studying and working with Data Enginee
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black)
+
+### 🛠 Tech Stack
+- Python
+- Pandas
+- SQL
+- Google BigQuery
+- GCP
+- Prefect
